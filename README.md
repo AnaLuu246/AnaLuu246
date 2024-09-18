@@ -1,6 +1,12 @@
-## Hi there 👋
+### Bem vinde ⭐
 
-<!--
+-estudante do alura 
+-formação em javaScript
+|[]()https://media1.tenor.com/m/7K3Ghn-1bQ8AAAAd/paprikafume-ines-brasil.gif
+
+
+
+
 **AnaLuu246/AnaLuu246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
